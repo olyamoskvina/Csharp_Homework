@@ -1,0 +1,15 @@
+/Users/olga/Desktop/C#_Homework/Task6/obj/Debug/net6.0/Task6.csproj.AssemblyReference.cache
+/Users/olga/Desktop/C#_Homework/Task6/obj/Debug/net6.0/Task6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olga/Desktop/C#_Homework/Task6/obj/Debug/net6.0/Task6.AssemblyInfoInputs.cache
+/Users/olga/Desktop/C#_Homework/Task6/obj/Debug/net6.0/Task6.AssemblyInfo.cs
+/Users/olga/Desktop/C#_Homework/Task6/obj/Debug/net6.0/Task6.csproj.CoreCompileInputs.cache
+/Users/olga/Desktop/C#_Homework/Task6/bin/Debug/net6.0/Task6
+/Users/olga/Desktop/C#_Homework/Task6/bin/Debug/net6.0/Task6.deps.json
+/Users/olga/Desktop/C#_Homework/Task6/bin/Debug/net6.0/Task6.runtimeconfig.json
+/Users/olga/Desktop/C#_Homework/Task6/bin/Debug/net6.0/Task6.dll
+/Users/olga/Desktop/C#_Homework/Task6/bin/Debug/net6.0/Task6.pdb
+/Users/olga/Desktop/C#_Homework/Task6/obj/Debug/net6.0/Task6.dll
+/Users/olga/Desktop/C#_Homework/Task6/obj/Debug/net6.0/refint/Task6.dll
+/Users/olga/Desktop/C#_Homework/Task6/obj/Debug/net6.0/Task6.pdb
+/Users/olga/Desktop/C#_Homework/Task6/obj/Debug/net6.0/Task6.genruntimeconfig.cache
+/Users/olga/Desktop/C#_Homework/Task6/obj/Debug/net6.0/ref/Task6.dll
